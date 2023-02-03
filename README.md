@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gopalkrishan7570
+- 👋 Hi, I’m Gopal Krishan
 - 👀 I’m Software Developer
 - 🌱 My expertise area is Wordpress, HTML, CSS, javaScript, TypeScript, ReactJs, Jquery, and PHP.
 
